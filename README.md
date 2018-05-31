@@ -10,6 +10,7 @@
    - “index.html” should simply display the contents of all of the blogs in your database
    - “createBlog.html” should contain a form the user can fill in and submit to add a blog to your firebase database
      - Hint: it’s usually a good idea to redirect the user to the newly made post at “index.html” - it would be nice to have the newest blogs appear at the top!
+   - The website must be properly hosted on GitHub
 4. Your website is dependent on the database. Before you even begin wireframing the site...layout what your database should look like (this is also known as the schema)!
    - What pieces of information are necessary to make a simple blog (title, content, username, etc)?
    - What pieces of information are nice to have or are part of something unique about your blogging site?
