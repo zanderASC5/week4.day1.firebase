@@ -14,13 +14,13 @@
 4. Your website is dependent on the database. Before you even begin wireframing the site...layout what your database should look like (this is also known as the schema)!
    - What pieces of information are necessary to make a simple blog (title, content, username, etc)?
    - What pieces of information are nice to have or are part of something unique about your blogging site?
-   - Keep in mind, once the database is set up, you really shouldn’t be changing its schema.
+   - Kep in mind, once the database is set up, you really shouldn’t be changing its schema.
 5. Wireframe both websites and break down what each group member is responsible for
-   - You do NOT need your instructor's approval here, however, it’s beneficial to you to ask for their advice and input.
-6. We’re almost done near the end of the SI! So for this particular project, I want to see GREAT looking projects that are also functional.
-7. Enjoy creating!
+   - You do NOT ned your instructor's approval here, however, it’s beneficial to you to ask for their advice and input.
+6. We’re almost done near the end of the SI! So for this particular project, I want to se GReAT looking projects that are also functional.
+7. enjoy creating!
 
-## Extra Credit
+## extra Credit
 - Give the user the ability to also update and destroy blog posts
    - You can learn more about CRUD here - https://www.codecademy.com/articles/what-is-crud
 - On the “index.html” page, allow the user to filter blogs by a keyword

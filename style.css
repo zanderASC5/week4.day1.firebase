@@ -1,0 +1,6 @@
+body{   
+    background-image: linear-gradient(to bottom, #5c8dd5, #3d72cb, #2156be, #0939ae, #05179b);
+    display: flex;
+    flex-direction: column;
+    
+}
